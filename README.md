@@ -1,12 +1,12 @@
 # task2
 CRUD Operations with Multiple Databases
 Databases and Use Cases
-Relational Database (MySQL)
-Document Database (MongoDB)
-Vector Database (Pinecone)
-Graph Database (Neo4j)
-Key-Value Pair Database (Redis)
-Time-Series Database (Timescale)
+Relational Database (MySQL),
+Document Database (MongoDB),
+Vector Database (Pinecone),
+Graph Database (Neo4j),
+Key-Value Pair Database (Redis),
+Time-Series Database (Timescale),
                                 Why These Databases:
                                 mysql:simple,fast,Community Support,Flexibility.
                                 mongodb:Flexible Schema,Scalability,High Performance.
